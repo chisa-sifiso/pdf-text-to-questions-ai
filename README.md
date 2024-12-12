@@ -20,7 +20,7 @@ Features
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pdf-text-to-questions-ai.git
+   git clone https://github.com/chisa-sifiso/pdf-text-to-questions-ai.git
    cd pdf-text-to-questions-aiInstall the dependencies:
 
 bash
