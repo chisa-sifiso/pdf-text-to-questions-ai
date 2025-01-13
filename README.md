@@ -34,4 +34,4 @@ npm start
 Visit http://localhost:3000 to view the app.
 
 
-Sifiso Vinjwa
+Developer Sifiso Vinjwa
